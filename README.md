@@ -4,10 +4,6 @@ This project is a pytorch implementation of Diversely Regularized Matrix Factori
 This paper proposes a novel approach, Diversely Regularized Matrix Factorization (DivMF), to achieve high aggregate level diversity in recommendation system while maintaining accuracy.
 This project provides executable source code with adjustable hyperparameters as arguments and preprocessed datasets which used in the paper.
 
-## License
-This software may be used only for research evaluation purposes.
-For other purposes (e.g., commercial), please contact the authors.
-
 ## Prerequisites
 
 - Python 3.8+
